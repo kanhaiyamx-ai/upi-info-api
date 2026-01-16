@@ -1,7 +1,7 @@
 {
-  "name": "upi-instagram-lookup-api",
+  "name": "upi-info-api",
   "version": "1.0.0",
-  "description": "UPI + Instagram Lookup API with Image Proxy",
+  "description": "UPI ID verification API",
   "type": "module",
   "main": "index.js",
   "scripts": {
